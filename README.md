@@ -209,4 +209,4 @@ This repository serves as the official landing page for eScan Internet Security 
 **Get the most recent version of eScan Internet Security Suite today!**
 
 ---
-**Last updated:** 2026-11-13 18:17:49 UTC
+**Last updated:** 2026-11-14 00:02:11 UTC
